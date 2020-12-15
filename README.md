@@ -14,7 +14,8 @@
 | 设备列表 | EquipmentFragment.java | 功能页2，用于显示农场设备类型 |
 | 设备详情 | EquipmentDetails.java | 设备详情页，显示所有农场该类设备的状态与控制 |
 </br>
-操作步骤嘛，git clone到本地，用Android studio打开，等待编译，成功后便可开始使用啦。
+操作步骤嘛，git clone到本地，用Android studio打开，等待编译，成功后便可开始使用啦。</br>
+
 >其中由于脱敏的缘故，将部分代码逻辑进行了修改，在后期部署到真实环境中时请按照代码中的注释进行修改，此外本软件所使用的图标为@iconfont.cn上上传的免费图标，请悉知。
 </br>
 
