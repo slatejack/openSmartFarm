@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cd_equipmentdetails_equipment1"
+            android:layout_width="148dp"
+            android:layout_height="89dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            app:cardCornerRadius="10dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/icon_equipmentdetails_equipment1"
+                    android:layout_width="38dp"
+                    android:layout_height="38dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="16dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/icon_waiting" />
+
+                <TextView
+                    android:id="@+id/tv_equipmentdetails_equipment1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="TextView"
+                    android:textColor="@color/CnEquipment"
+                    app:layout_constraintEnd_toEndOf="@+id/icon_equipmentdetails_equipment1"
+                    app:layout_constraintStart_toStartOf="@+id/icon_equipmentdetails_equipment1"
+                    app:layout_constraintTop_toBottomOf="@+id/icon_equipmentdetails_equipment1" />
+
+                <TextView
+                    android:id="@+id/tv_equipmentdetails_equipment1_home"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:text="TextView"
+                    android:textSize="18sp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/icon_equipmentdetails_equipment1"
+                    app:layout_constraintTop_toTopOf="@+id/icon_equipmentdetails_equipment1" />
+
+                <TextView
+                    android:id="@+id/tv_equipmentdetails_equipment1_zhuangtai"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="TextView"
+                    android:textSize="12sp"
+                    app:layout_constraintEnd_toEndOf="@+id/tv_equipmentdetails_equipment1_home"
+                    app:layout_constraintStart_toStartOf="@+id/tv_equipmentdetails_equipment1_home"
+                    app:layout_constraintTop_toBottomOf="@+id/tv_equipmentdetails_equipment1_home" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.cardview.widget.CardView>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>
