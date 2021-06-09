@@ -34,6 +34,8 @@
 ![](https://github.com/slatejack/openSmartFarm/blob/main/buildimg/%E9%A2%84%E8%A7%881.jpg?raw=true)
 ![](https://github.com/slatejack/openSmartFarm/blob/main/buildimg/%E9%A2%84%E8%A7%882.jpg?raw=true)
 ![](https://github.com/slatejack/openSmartFarm/blob/main/buildimg/%E9%A2%84%E8%A7%883.jpg?raw=true)
+![](https://github.com/slatejack/openSmartFarm/blob/main/buildimg/%E9%A2%84%E8%A7%884.jpg?raw=true)
+![](https://github.com/slatejack/openSmartFarm/blob/main/buildimg/%E9%A2%84%E8%A7%885.jpg?raw=true)
 
 ## 开发日志
 |  版本号   | 实现功能  | 注释 |
