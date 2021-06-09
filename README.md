@@ -31,11 +31,11 @@
 
 ## 效果截图
 以下项目图皆为锦城学院智慧农场app图
-![](https://github.com/slatejack/openSmartFarm/blob/main/buildimg/%E9%A2%84%E8%A7%881.jpg?raw=true)
-![](https://github.com/slatejack/openSmartFarm/blob/main/buildimg/%E9%A2%84%E8%A7%882.jpg?raw=true)
-![](https://github.com/slatejack/openSmartFarm/blob/main/buildimg/%E9%A2%84%E8%A7%883.jpg?raw=true)
-![](https://github.com/slatejack/openSmartFarm/blob/main/buildimg/%E9%A2%84%E8%A7%884.jpg?raw=true)
-![](https://github.com/slatejack/openSmartFarm/blob/main/buildimg/%E9%A2%84%E8%A7%885.jpg?raw=true)
+![](https://github.com/slatejack/openSmartFarm/blob/main/buildimg/%E9%A2%84%E8%A7%881_1.jpg?raw=true)
+![](https://github.com/slatejack/openSmartFarm/blob/main/buildimg/%E9%A2%84%E8%A7%882_1.jpg?raw=true)
+![](https://github.com/slatejack/openSmartFarm/blob/main/buildimg/%E9%A2%84%E8%A7%883_1.jpg?raw=true)
+![](https://github.com/slatejack/openSmartFarm/blob/main/buildimg/%E9%A2%84%E8%A7%884_1.jpg?raw=true)
+![](https://github.com/slatejack/openSmartFarm/blob/main/buildimg/%E9%A2%84%E8%A7%885_1.jpg?raw=true)
 
 ## 开发日志
 |  版本号   | 实现功能  | 注释 |
